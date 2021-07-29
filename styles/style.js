@@ -22,7 +22,7 @@ export const styles = StyleSheet.create({
     },
     footer:{
         backgroundColor:'#ef233c',
-        height: 40
+        height: 55
     },
     visor:{
 
